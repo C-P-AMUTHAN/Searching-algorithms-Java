@@ -11,4 +11,4 @@ This repository contains implementations of commonly used searching algorithms i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/java-searching-algorithms.git
+   git clone https://github.com/C-P-AMUTHAN/Searching-algorithms-Java.git
